@@ -25,7 +25,7 @@ int main()
         cout << i + 1 << "\t$" << fixed << setprecision(2) << pennies << "\n";
     }
 
-    int Total = pennies; // Removed the unnecessary '+'
+    int Total = pennies;
     cout << "------------------\n";
     cout << "Total Pay: $" << fixed << setprecision(2) << Total << "\n";
 
