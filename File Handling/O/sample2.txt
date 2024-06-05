@@ -1,0 +1,9 @@
+File handling in C++ is a mechanism to create and perform read/write operations on a file.
+
+We can access various file handling methods in C++ by importing the <fstream> class.
+
+#include <fstream>
+<fstream> includes two classes for file handling:
+
+ifstream - to read from a file.
+ofstream - to create/open and write to a file.
